@@ -1,0 +1,13 @@
+{
+  "name": "Mibusca — Marketing para Delivery",
+  "short_name": "Mibusca",
+  "description": "Agência de marketing para delivery e restaurantes. Gestão de iFood e 99Food.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ff4d2d",
+  "lang": "pt-BR",
+  "icons": [
+    { "src": "favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ]
+}
